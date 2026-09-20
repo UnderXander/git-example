@@ -1,4 +1,3 @@
-p = [1, 2, 3, 4, 5]
-print(p)
-p.insert(2, 4)
-print(p)
+y = {x: x ** 2 for x in [10, 20, 30, 40, 50]}
+
+print(y)
